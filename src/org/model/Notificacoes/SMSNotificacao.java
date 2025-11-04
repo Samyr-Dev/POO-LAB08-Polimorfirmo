@@ -1,0 +1,15 @@
+package org.model.Notificacoes;
+
+public class SMSNotificacao implements Notificacao{
+
+    private String numeroTelefone;
+
+    public SMSNotificacao(String numeroTelefone) {
+        this.numeroTelefone = numeroTelefone;
+    }
+
+    @Override
+    public void enviar(String mensagem) {
+        System.out.println("Enviando SMS para " + numeroTelefone + ": " + mensagem);
+    }
+}
