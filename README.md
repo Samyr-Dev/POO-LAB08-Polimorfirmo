@@ -27,7 +27,7 @@ O projeto faz parte das atividades práticas do laboratório da disciplina de PO
 |-------------|------------|
 | ☕ **Java** | Linguagem principal do projeto |
 | 🧩 **Paradigma POO** | Implementação dos conceitos de polimorfismo e herança |
-| 🖥️ **IDE** | Desenvolvido e testado no Eclipse/VSCode |
+| 🖥️ **IDE** | Desenvolvido e testado no IntelliJ |
 
 ---
 
@@ -57,12 +57,17 @@ Implementar interfaces e classes abstratas de forma eficiente;
 Estruturar projetos de POO flexíveis, reutilizáveis e bem organizados.
 
 # 📝 Licença
+
 Este projeto está sob a licença MIT.
+
 Sinta-se à vontade para usar e adaptar para fins educacionais.
 
 # 👨‍💻 Autor
+
 Samyr Silva Tertuliano Deusdará
+
 Desenvolvedor em formação e entusiasta de soluções que unem tecnologia e aprendizado.
+
 🔗 LinkedIn - https://www.linkedin.com/in/samyrtertuliano
 
 ⭐ Se este conteúdo te ajudou, não esqueça de deixar uma estrela no repositório!
